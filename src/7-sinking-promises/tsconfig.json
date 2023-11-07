@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "noEmit": true,
+    "target": "ESNext",
+    "strict": true
+  },
+  "include": [".", ".eslintrc.cjs"]
+}

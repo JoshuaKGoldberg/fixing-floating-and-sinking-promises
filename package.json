@@ -1,0 +1,20 @@
+{
+  "name": "fixing-floating-and-sinking-promises",
+  "version": "1.0.0",
+  "description": "Companion code for my workshop on fixing floating and sinking Promises. ✨",
+  "main": "index.js",
+  "author": "Josh Goldberg <npm@joshuakgoldberg.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
+    "@typescript-eslint/parser": "^6.9.1",
+    "eslint": "^8.53.0",
+    "tsx": "^3.14.0",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "lint": "npx eslint ."
+  },
+  "type": "module"
+}

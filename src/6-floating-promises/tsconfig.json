@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "noEmit": true,
+    "target": "ESNext",
+    "strict": true
+  },
+  "include": [".", ".eslintrc.cjs"]
+}
