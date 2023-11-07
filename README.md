@@ -2,6 +2,8 @@
 
 Companion code for my workshop on debugging async code issues.
 
+> [See the slides here!](https://1drv.ms/p/s!AvUc1cvPrJnWvuQL58wf2Pb4AXSyag)
+
 ## Setup
 
 ```shell
